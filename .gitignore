@@ -31,3 +31,17 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Python virtual environments and caches (FastAPI)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Network configuration files containing sensitive information
+*.pcap
+*.pkt
+
+.idea/
+.vscode/
+.DS_Store
