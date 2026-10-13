@@ -4,7 +4,7 @@
 Este repositorio contiene el código fuente, los servicios de autenticación y la documentación de la infraestructura de red.
 
 ## Presentación del Proyecto 
-**[Enlace al video de presentación:](https://drive.google.com/drive/folders/1nvStXRS_E7MsvUriILg4JqHhyJCze5G3?usp=sharing)**
+**[Enlace al video de presentación](https://drive.google.com/drive/folders/1nvStXRS_E7MsvUriILg4JqHhyJCze5G3?usp=sharing)**
 
 ## Arquitectura del Proyecto
 
