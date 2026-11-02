@@ -35,3 +35,5 @@ El proyecto implementa una solución tecnológica distribuida entre dos sedes (S
 ## Licencia
 El proyecto se distribuye bajo la licencia MIT. 
 
+## Fase 2 (Documento para Programación Orientada a Objetos)
+ **[Enlace directo al PDF dentro de GitHub](https://github.com/zlkd4rk/Integrated-Project/blob/main/docs/POO%20Fase%202%20PI.pdf)**
