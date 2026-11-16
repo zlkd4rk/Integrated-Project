@@ -37,3 +37,6 @@ El proyecto se distribuye bajo la licencia MIT.
 
 ## Fase 2 (Documento para Programación Orientada a Objetos)
  **[Enlace directo al PDF dentro de GitHub](https://github.com/zlkd4rk/Integrated-Project/blob/main/docs/POO%20Fase%202%20PI.pdf)**
+
+## Fase 3 (Documento para Programación Orientada a Objetos)
+ **[Enlace directo al PDF dentro de GitHub para la Fase 3](https://github.com/zlkd4rk/Integrated-Project/blob/main/docs/Fase3_POO_Grupo_5.pdf)**
